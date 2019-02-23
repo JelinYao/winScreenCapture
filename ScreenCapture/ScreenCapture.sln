@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenCapture", "ScreenCapture\ScreenCapture.vcproj", "{AF0DA02D-2C3C-4B40-86C6-37DA5E201FB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenCaptureDll", "ScreenCaptureDll\ScreenCaptureDll.vcproj", "{2BC5FDCE-5CEB-4AF8-837E-B58F88EBACA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0DA02D-2C3C-4B40-86C6-37DA5E201FB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF0DA02D-2C3C-4B40-86C6-37DA5E201FB8}.Debug|Win32.Build.0 = Debug|Win32
+		{AF0DA02D-2C3C-4B40-86C6-37DA5E201FB8}.Release|Win32.ActiveCfg = Release|Win32
+		{AF0DA02D-2C3C-4B40-86C6-37DA5E201FB8}.Release|Win32.Build.0 = Release|Win32
+		{2BC5FDCE-5CEB-4AF8-837E-B58F88EBACA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BC5FDCE-5CEB-4AF8-837E-B58F88EBACA9}.Debug|Win32.Build.0 = Debug|Win32
+		{2BC5FDCE-5CEB-4AF8-837E-B58F88EBACA9}.Release|Win32.ActiveCfg = Release|Win32
+		{2BC5FDCE-5CEB-4AF8-837E-B58F88EBACA9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
